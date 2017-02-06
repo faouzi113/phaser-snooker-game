@@ -1,0 +1,51 @@
+{ 
+    
+    "edges": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   454, 64  ,  96, 62  ,  85, 52  ,  82, 0  ,  466, 1  ,  467, 51  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   517, 1  ,  906, 0  ,  907, 52  ,  894, 63  ,  532, 64  ,  518, 49  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   18, 434  ,  18, 82  ,  53, 84  ,  65, 96  ,  66, 421  ,  52, 434  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   967, 83  ,  966, 431  ,  918, 419  ,  919, 96  ,  930, 83  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   918, 419  ,  966, 431  ,  932, 429  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   468, 493  ,  84, 494  ,  99, 442  ,  454, 442  ,  468, 456  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   99, 442  ,  84, 494  ,  86, 456  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   905, 494  ,  518, 494  ,  530, 443  ,  893, 443  ,  905, 455  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   530, 443  ,  518, 494  ,  519, 456  ]
+        }
+    ]
+}
